@@ -1,0 +1,2 @@
+src/main/java/homarherrera/Calculator.java:91:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/homarherrera/Calculator.java:93:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
